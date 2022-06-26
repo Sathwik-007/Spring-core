@@ -1,0 +1,5 @@
+package com.sathwik.spring.springcore;
+
+public class Employee {
+
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans.xsd 
+	http://www.springframework.org/schema/context 
+	http://www.springframework.org/schema/context/spring-context.xsd
+	http://www.springframework.org/schema/util 
+	http://www.springframework.org/schema/util/spring-util.xsd">
+
+	<!-- 
+	<util:map map-class="java.util.HashMap" id="products">
+		<entry>
+			<key>
+				<value>Iphone</value>
+			</key>
+			<value>75</value>
+		</entry>
+		<entry key="Macbook" value="75000">
+		</entry>
+		<entry key="Ipad" value="75000"></entry>
+	</util:map>  -->
+
+	<bean id="productlist"
+		class="com.sathwik.spring.springcoreAdvanced.standalone.collections.ProductList">
+		<property name="products">
+			<map>
+				<entry key="Dollar" value="75"/>
+				<entry key="Dirams" value="218"/>
+				<entry key="Euros" value="80"/>
+			</map>
+		</property>
+	</bean>
+	<context:annotation-config />
+</beans>

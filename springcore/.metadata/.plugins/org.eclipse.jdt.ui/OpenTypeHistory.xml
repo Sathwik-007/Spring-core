@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=springcoreAdvanced/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sathwik.spring.springcoreAdvanced.Injecting.interfaces{OrderBO.java[OrderBO" modifiers="513" timestamp="1651794513000"/>
+    <typeInfo handle="=springcoreAdvanced/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sathwik.spring.springcoreAdvanced.Injecting.interfaces{OrderDAO.java[OrderDAO" modifiers="513" timestamp="1651793325000"/>
+    <typeInfo handle="=springjdbc/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sathwik.HandsOn.springjdbc.employee.dao{EmployeeDao.java[EmployeeDao" modifiers="513" timestamp="1652079317000"/>
+    <typeInfo handle="=springjdbc/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sathwik.HandsOn.springjdbc.passenger.dao{PassengerDao.java[PassengerDao" modifiers="513" timestamp="1652086606000"/>
+    <typeInfo handle="=springaop/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sathwik.spring.springaop{ProductService.java[ProductService" modifiers="513" timestamp="1652255927000"/>
+</typeInfoHistroy>

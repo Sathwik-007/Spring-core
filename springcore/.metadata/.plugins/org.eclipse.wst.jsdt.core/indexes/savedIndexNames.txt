@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/sathwikpinninti/SpringWorkspace/springcore/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+252009682.index
+2434056543.index
+1821375289.index
+3008394462.index
+3275188012.index
+613196149.index
